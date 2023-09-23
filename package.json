@@ -4,7 +4,8 @@
   "description": "Real Time Chat With NodeJS, Socket.io and ExpressJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
