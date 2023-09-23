@@ -56,7 +56,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Contact
 
-If you have any questions or issues, feel free to contact us at [your-email@example.com](mailto:bcagiran@hotmail.com).
+If you have any questions or issues, feel free to contact us at [mail](mailto:bcagiran@hotmail.com).
 
 ---
 
